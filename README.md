@@ -4,7 +4,7 @@
 ## Part 2. 주요 알고리즘 이론과 실전 문제
 - [x] [Chapter 3. 그리디](#chapter-3-그리디) <br>
 - [x] [Chapter 4. 구현](#chapter-4-구현) <br>
-- [ ] [Chapter 5. DFS/BFS](#chapter-5-dfsbfs) <br>
+- [x] [Chapter 5. DFS/BFS](#chapter-5-dfsbfs) <br>
 - [ ] [Chapter 6. 정렬](#chapter-6-정렬) <br>
 - [ ] [Chapter 7. 이진 탐색](#chapter-7-이진-탐색) <br>
 - [ ] [Chapter 8. 다이나믹 프로그래밍](#chapter-8-다이나믹-프로그래밍) <br>
